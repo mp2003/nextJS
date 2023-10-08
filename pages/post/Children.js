@@ -9,7 +9,6 @@ const Children = () => {
         This is a success message.
       </Alert>
       
-      {/* More content */}
     </div>
   );
 };
